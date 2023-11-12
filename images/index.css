@@ -35,6 +35,10 @@
     /* border-radius: 40%; */
 }
 
+.card > h4{
+    color: #7BA801;
+}
+
 .card-image-container > img{
     width: 100%;
     border-radius: 35% 2%;
@@ -42,7 +46,7 @@
 .card button{
     margin: auto;
     color: #fff;
-    background-color: #7BA801;
+    background-color: #E47600;
     border: none;
     padding: .5em 2em;
     border-radius: .5em;
