@@ -23,7 +23,7 @@
 
 
   .card:hover {
-    transition: all;
+    transition: transform 0.3s ease-in-out; 
   }
 
  
