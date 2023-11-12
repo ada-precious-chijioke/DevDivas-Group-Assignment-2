@@ -1,0 +1,119 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Roboto', sans-serif;
+ 
+}
+.header{
+  background-color: #CC5500;
+  height:20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header h5{
+  color:#fff;
+  margin: 0 10px;
+}
+.header h3{
+  color:#fff;
+  margin-right: 40px;
+  border:none;
+  border-radius:5px;
+  font-size: 15px;
+}
+
+.container{
+  background-color: #ffcc00;
+}
+ ul {
+ 
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+
+ li {
+  display: flex;
+  margin: 0;
+  padding:0;
+  align-items: center;
+  
+}
+
+ a {
+  text-decoration: none;
+  color: #cc5500;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ffcc00; /* Change the color on hover as desired*/ 
+} 
+
+.fa-shopping-cart {
+  margin-left: auto; /* Push the cart icon to the right */
+  color: white;
+}
+
+
+.main-container{
+    margin-top:100px;
+    background-image: url("images/1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height:100vh;
+  }
+  .main_text{
+    margin-top: 80px;
+    border-radius: 20px;
+    background-color: #f7f3f0;
+    margin-left:40px;
+    width:20%;
+    height:300px;
+    
+  }
+  .main_text h3{
+    margin-top: 20px;
+    padding-left:20px;
+    font-size: 12px;
+    color:#CC5500
+ }
+ .main_text h1{
+  margin-top: 10px;
+  
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 5px;
+}
+.main_text p{
+  margin-top: 10px;
+  font-size: 12px;
+  
+  word-spacing: 3px;
+}
+span{
+  color:#CC5500;
+}
+button{
+  margin-top: 20px;
+  
+background-color: #CC5500;
+border-radius: 13px;
+width:150px;
+height:37px;
+
+border:none;
+color:#fff
+}
+a{
+  text-decoration: none;
+  color:#fff
+}
+
+
+  
