@@ -26,6 +26,11 @@
 .card:hover {
     transform: rotateY(180deg); /* Rotate the card 180 degrees on hover */
   }
+  
+
+  
+
+
 .card-image-container{
     width: 40%;
     margin: auto;
