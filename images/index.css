@@ -1,3 +1,10 @@
-.card-container img{
-    border-radius: 50%;
+
+.card-image-container{
+    width: 100%;
+    background-color: aqua;
+}
+
+.card-image-container > img{
+    width: 10%;
+    border-radius: 40%;
 }
