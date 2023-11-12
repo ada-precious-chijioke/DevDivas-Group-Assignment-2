@@ -15,7 +15,6 @@
     width: 200px;
     height: 300px;
     padding: 2em 0;
-    transform-style: preserve-3d; /* Preserve the 3D transformations */
     transition: transform 0.5s;
     border-radius: 10% 2%;
     border: 2px solid #eee;
