@@ -15,11 +15,12 @@
     margin: 2em auto;
     width:90% ;
     padding: 2em 0;
+   transform: rotate(1deg);
 
 }
 .card-image-container{
-    width: 30%;
-    margin:1em auto;
+    width: 40%;
+    margin: auto;
 }
 
 .card-image-container > img{
