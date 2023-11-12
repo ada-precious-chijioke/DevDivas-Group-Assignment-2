@@ -41,4 +41,7 @@
 }
 .card button{
     margin: auto;
+    color: #fff;
+    background-color: orange;
+    border: none;
 }
