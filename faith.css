@@ -115,5 +115,15 @@ a{
   color:#fff
 }
 
-
+.footer{
+  display: flex;
+  justify-content: center;
+  padding: 53px;
+}
+.footer .footerText{
+  margin-inline: 85px;
+}
+.footerText p{
+  margin-top: 11px;
+}
   
