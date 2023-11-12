@@ -6,12 +6,16 @@
 .card-container{
     display: flex;
     flex-direction: column;
+    gap: 1rem;
     justify-content: center;
-    align-self: center;
+    align-content: center;
+    background-color: orange;
+    text-align: center;
 
 }
 .card-image-container{
-    width: 8%;
+    width: 20%;
+    margin: auto;
 }
 
 .card-image-container > img{
