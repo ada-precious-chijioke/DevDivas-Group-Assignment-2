@@ -39,3 +39,6 @@
     width: 100%;
     border-radius: 35% 2%;
 }
+.card button{
+    margin: auto;
+}
