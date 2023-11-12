@@ -44,4 +44,8 @@
     color: #fff;
     background-color: orange;
     border: none;
+    padding: .5em 2em;
+    border-radius: .5em;
+    font-weight: 500;
+    cursor: pointer;
 }
