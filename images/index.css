@@ -42,7 +42,7 @@
 .card button{
     margin: auto;
     color: #fff;
-    background-color: orange;
+    background-color: #7BA801;
     border: none;
     padding: .5em 2em;
     border-radius: .5em;
@@ -50,5 +50,5 @@
     cursor: pointer;
 }
 .card button:hover{
-
+    background-color: #B18D02;
 }
