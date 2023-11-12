@@ -19,11 +19,12 @@
     transition: transform 0.5s;
     border-radius: 10% 2%;
     border: 2px solid #eee;
+    transition: transform 0.3s ease-in-out; 
 }
 
 
   .card:hover {
-    transition: transform 0.3s ease-in-out; 
+    transform: scale(1.1); /* Scale the card on hover */
   }
 
  
