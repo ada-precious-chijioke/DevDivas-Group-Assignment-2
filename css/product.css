@@ -7,6 +7,7 @@
 body {
     background-color: #e7e5e5fd;
 }
+/* nav styling started */
 
 nav {
     display: flex;
@@ -14,34 +15,35 @@ nav {
     background-color: #E47600;
     color: #fff;
     margin: 0;
-    padding: 20px;
+    padding: 40px;
     justify-content: space-between;
 }
-
+  
 .navs {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
-    gap: 1.5rem;
-}
-
+    gap: 3.5rem;
+  }
+  
 nav>ul li {
     list-style: none;
     text-decoration: none;
     font-weight: 600;
-}
-
+  }
+  
 nav>h1 {
     font-size: 35px;
     font-family: 'Great Vibes', cursive;
     font-weight: 600;
-}
-
-nav ul li>a {
+    padding-left: 20px;
+  }
+  nav ul li>a {
     text-decoration: none;
     color: #fff;
 }
+/* Nav styling ended */
 
 .products {
     margin: 2em auto;
